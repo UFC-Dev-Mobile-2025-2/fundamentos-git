@@ -19,7 +19,7 @@ O Git é um fluxo de trabalho que permite experimentar e colaborar em seus proje
 Um repositório é onde seu trabalho de projeto acontece – pense nele como a pasta do seu projeto. Ele contém todos os arquivos e o histórico de revisões do seu projeto. Você pode trabalhar em um repositório sozinho ou convidar outros para colaborar com você nesses arquivos.
 
 Repositórios também contêm **README**s. Você pode adicionar um arquivo README ao seu repositório para informar outras pessoas sobre a utilidade do seu projeto, o que podem fazer com ele e como usá-lo. Estamos usando este README para comunicar como aprender Git e GitHub com você. 😄
-Para saber mais sobre repositórios, leia ["Sobre repositórios"](https://docs.github.com/pt/github/creating-cloning-and-archiving-repositories/about-repositories) e ["Sobre READMEs"](https://docs.github.com/pt/github/creating-cloning-and-archiving-repositories/about-readmes).
+Para saber mais sobre repositórios, leia ["Sobre repositórios"](https://docs.github.com/pt/github/creating-cloning-and-archiving-repositories/about-repositories) e ["Sobre READMEs"](https://docs.github.com/pt/github/creating-cloning-and-archiving-repositories/about-readmes). [Veja como funciona a sintaxe MD](https://docs.github.com/pt/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes).
 
 👊 Você está lendo este arquivo em um repositório chamado **fundamentos-git-github**. Verifique a url. Perceba quantos arquivos ele possui. Quem fez e quanto fez a última edição. 
 
