@@ -130,7 +130,9 @@ Você pode acessar o site do GitHub Explore [em github.com/explore](https://gith
 
 `git push -u local-remoto nome-da-branch` - envia as alterações para um repositório remoto
 
-`git push -u origin nome-da-branch`- normalmente o local reomoto é chamado de origin
+`git push -u origin nome-da-branch`- normalmente o local remoto é chamado de origin
+
+`git push`- versão reduzida do comando se já tiver o remote configurado
 
 `git pull repositório-remoto` - baixa as atualizações
 
